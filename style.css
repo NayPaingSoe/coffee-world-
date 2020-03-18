@@ -1,0 +1,177 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'bb';
+}
+
+div#header{
+	margin: 0 550px;
+}
+
+div#header h1{
+	font-family: 'ee';
+	font-size: 30px;
+	padding-top: 40px;
+}
+div#header img{
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+.clear{
+	clear: both;
+}
+
+#navbar{
+	width: 100%;
+	background: #663300;
+
+}
+.nav_ul{
+	padding-left: 50px;
+}
+
+#navbar .nav_ul li{
+	list-style: none;
+	float: left;
+}
+#navbar .nav_ul li a {
+	color: #fff;
+	text-decoration: none;
+	padding: 20px 50px;
+	display: inline-block;
+	text-transform: uppercase;
+	font-family: 'bb';
+}
+
+#navbar .nav_ul li a:hover,.active{
+	background-color: #994d00;
+}
+div#slider img{
+	width: 100%;
+	height:500px;
+	object-fit: cover;
+}
+div.quote{
+	position: absolute;
+	padding: 20px;
+	background-color:rgba(255,255,255,0.5);
+	top: 50%;
+	left: 40%;
+	font-size: 30px;
+	font-family:Myanmar3,Yunghkio;
+}
+
+div#whatweoffer{
+	text-align: center;
+	
+}
+.little{
+	margin-left: 355px;
+}
+div#whatweoffer p:first-child{
+	font-size: 40px;
+	margin: 90px 0px 50px 0px;
+	font-family: 'dd';
+}
+ hr{
+	margin: 0px 250px;
+}
+div#whatweoffer p:last-child{
+	font-size: 18px;
+	font-family:'bb';
+	width: 650px;
+	line-height: 28px;
+	margin-top: 10px;
+}
+.coffcup{
+	width: 200px;
+	float: left;
+	display: inline-block;
+	margin: 0px 50px 50px 150px;
+	text-align: center;
+}
+
+.coffcup img{
+	width: 80px;
+	height: 80px;
+}
+.coffee{
+	font-size: 30px;
+	margin:10px;
+	font-family: 'dd';
+}
+.coffeee{
+	font-size: 25px !important;
+	
+	font-family: 'dd';
+}
+.today_special{
+	margin-top: 50px;
+}
+
+
+.three_img img{
+	margin-left: 5px;
+	margin-top: 50px;
+	width: 30%;
+	height: 250px
+}
+.three_img{
+	width:40%; 
+	margin-left: 30px;
+	}
+
+.why_us{
+	width: 55%;
+	margin-left: 30px;
+	margin-top: 40px
+}
+
+.ggg{
+	display: inline-block;
+}
+
+.gggg{
+	width: 60%;
+
+}
+.gggg img{
+	width: 95%;
+    height: 400px;
+    margin-left: 45px;
+}
+.ggggg{	width: 40%;
+}
+.ggggg img{
+	height: 200px;
+	width: 380px;
+}
+.ft{
+	float: left;
+}
+
+.gggggg{
+	width: 100%;
+}
+.gggggg img{
+	width:180px;
+	margin: 5px;
+}
+.daily_section{
+	width: 30%;
+}
+.daily_section img{
+	padding-top: 60px;
+	width: 100%;
+}
+ol{
+	text-align: left;		
+	line-height: 30px;
+}
+
+footer{
+	height: 50px;
+	background: #663300;
+	width: 100% !important;
+}
